@@ -1,6 +1,6 @@
 # Youtube-Data-Harvesting--Project-1
-Hello everyone,
-So excited to share my project on "Youtube data harvesitng", here I ahve used two different technology to webpage using streamlit. To know more about the the project please check out the procudure below!
+Hello There,
+So excited to share my project on "Youtube data harvesitng", here I have used two different technology to webpage using streamlit. To know more about the the project please check out the procudure below!
 The goal of this project is to create a Streamlit application which allows users to examine data from several YouTube channels. To access information such as video details, user engagement, and channel metadata, users must provide their YouTube channel ID. Users should be able to gather data from up to ten different channels and the app should make it easier to save the data in a MongoDB database. It should also provide the ability to move specific channel data from the data lake to a SQL database for additional examination. The application should allow for advanced features including joining tables for detailed channel information, as well as searching and retrieving data from the SQL database.
 
 Technology Stack Used
